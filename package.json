@@ -1,0 +1,11 @@
+{
+  "name": "nisq-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix nisq run dev",
+    "build": "npm --prefix nisq run build",
+    "start": "npm --prefix nisq run start",
+    "lint": "npm --prefix nisq run lint"
+  }
+}
